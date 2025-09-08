@@ -10,3 +10,8 @@ p{
 .learn{
     box-shadow: 2px 3px yellow;
 }
+
+hr{
+    width: 200px;
+    background-color: cadetblue;
+}
